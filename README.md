@@ -1,4 +1,4 @@
-#Collection of Programming Exercises
+# Collection of Programming Exercises
 This repository contains my collection of exercises aimed at improving my skills as a programmer and problem solver. I plan to archive all standalone exercises that are too small to warrant their own project.
 
 Where possible, I will include the exercise text or provide a link to the original source.
